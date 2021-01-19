@@ -8,4 +8,6 @@ image:https://raw.github.com/m-m-m/mmm/master/src/site/resources/images/logo.png
 
 image:https://travis-ci.org/m-m-m/query.svg?branch=master["build-status",link="https://travis-ci.org/m-m-m/query"]
 
-The `mmm-query` project is a library to TODO
+The `mmm-query` project was indendet to create a cool infrastructure to dynamically build typesafe queries/DB-statements from your data-model.
+This has meanwhile be re-designed and re-implemented as part of mmm-entity-bean (https://github.com/m-m-m/entity) with amazing results.
+Therefore this repository has been archived and will be deleted soon.
